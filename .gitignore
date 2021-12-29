@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# 临时的hhh
+*.hhh
+*/*.hhh
